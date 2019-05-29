@@ -16,6 +16,6 @@ Enjoy.
 
 [![footprint.jpg](https://i.postimg.cc/Y95h1pJz/footprint.jpg)](https://postimg.cc/9RBm2jXD)
 
-https://i.postimg.cc/66SLfpys/schematic.jpg
+[![schematic.jpg](https://i.postimg.cc/66SLfpys/schematic.jpg)](https://postimg.cc/fkc9wZc5)
 
-https://i.postimg.cc/1t3cJgGS/3d-view.jpg
+[![3d-view.jpg](https://i.postimg.cc/1t3cJgGS/3d-view.jpg)](https://postimg.cc/SXHMKx11)
