@@ -1,4 +1,4 @@
-# Bluetooth_5.0_BGM13S
+# Bluetooth_5.0_BGM13S (non-maintaned)
 Bluetooth 5.1 technology (5.0 chip) BGM13S Module pcb
 
 Me and my parthner decided to order the latest bluetooth [28 May 2019], bluetooth 5.1 chip.
